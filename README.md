@@ -1,5 +1,4 @@
 # pestcore-preset-
-A preset made for the community, improving the quality of responses and providing a delightful immersion.  Have you ever wished for a preset that you could easily understand but that offered different narrative experiences? 
+Un preset para la comunidad de roleplay, no dudes en probarlo o unirte a nuestro grupo de discord
 
-
-join the proxy server: https://discord.gg/R79aWR4f
+join the proxy server: https://discord.gg/pMU4ErbY9H
